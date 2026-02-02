@@ -1,0 +1,16 @@
+shipment_id,origin,destination,distance_km,carrier,transport_mode,weather,planned_days,actual_days,delayed
+S001,Dallas,Chicago,1290,FedEx,Truck,Clear,3,3,0
+S002,Atlanta,New York,1380,UPS,Truck,Rain,3,4,1
+S003,Los Angeles,Phoenix,595,DHL,Truck,Clear,2,2,0
+S004,Seattle,San Francisco,1300,FedEx,Train,Storm,4,6,1
+S005,Houston,Denver,1410,UPS,Truck,Snow,4,5,1
+S006,Miami,Orlando,380,DHL,Truck,Clear,1,1,0
+S007,Chicago,Detroit,455,FedEx,Truck,Rain,1,2,1
+S008,San Jose,San Diego,740,UPS,Train,Clear,2,2,0
+S009,Phoenix,Las Vegas,480,DHL,Truck,Storm,2,3,1
+S010,Boston,Philadelphia,500,FedEx,Truck,Clear,2,2,0
+S011,Dallas,Austin,315,UPS,Truck,Rain,1,2,1
+S012,Denver,Las Vegas,1220,DHL,Train,Clear,3,3,0
+S013,Chicago,St Louis,475,FedEx,Truck,Clear,1,1,0
+S014,Atlanta,Miami,1060,UPS,Truck,Storm,3,5,1
+S015,Los Angeles,San Jose,540,DHL,Truck,Clear,2,2,0
